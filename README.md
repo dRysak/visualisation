@@ -1,5 +1,2 @@
-# WebGL
-
-Project that accompanies VGGI credit module.
-
-Visit vggi-kpi.blogspot.com for more information
+# visualisation
+![alt text](https://raw.githubusercontent.com/dRysak/visualisation/PA2/screen-capture.gif)
