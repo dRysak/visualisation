@@ -1417,7 +1417,6 @@
     dst[13] = src[13];
     dst[14] = src[14];
     dst[15] = src[15];
-
     return dst;
   }
 
